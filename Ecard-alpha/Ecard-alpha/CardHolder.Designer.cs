@@ -1,6 +1,6 @@
 ﻿namespace Ecard_alpha
 {
-    partial class Form1
+    partial class CardHolder
     {
         /// <summary>
         /// Required designer variable.

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Ecard_alpha
 {
-    public partial class Form1 : Form
+    public partial class CardHolder : Form
     {
-        public Form1()
+        public CardHolder()
         {
             InitializeComponent();
         }
